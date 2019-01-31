@@ -1,0 +1,12 @@
+::-webkit-scrollbar {display: none; }
+#body1{display: inline-block; background-color: #141414; overflow: show; float: top; position: absolute; width: 100%; top: 0%; left: 0%; background-attachment: fixed; background-size: cover;}
+ul{display: inline-block; list-style-type: none; overflow: show; background-color: #101014; text-align: center;}
+li{float: left;}
+a{background-color: #101014;}
+li a, .dropbtn{ display: inline-block; color: white; text-align: center; text-decoration: none; padding: 0px 8px;}
+li a:hover, .dropdown:hover .dropbtn{background-color: #01ff6b;}
+#welcome{font-family: 'VT323', monospace; color: #01ff6b; font-size: 650%; display: fixed; text-align: center; background-color: #141414; margin: 8px; }
+#introduction{font-family: 'Anonymous Pro', monospace; color: white; font-size: 115%; display: inline-block; padding: 0px 10px;}
+#intro-header{font-family: 'VT323', monospace; color: #01ff6b; font-size: 400%; text-align: center; display: fixed; background-image: url(https://d3jh33bzyw1wep.cloudfront.net/s3/W1siZiIsIjIwMTgvMDMvMDcvMTYvMjcvNTAvNjY0L3NodXR0ZXJzdG9ja181MTg4MzUwNTUuanBnIl0sWyJwIiwidGh1bWIiLCIyNTB4MzUwXHUwMDNjIl1d); height: 150px; background-attachment: fixed; background-size: cover; padding: 50px; margin: 0;}
+#faceless1{background-image: url(anonymous.png); height: 500px; width: 700px; position: absolute; right: 0%; top: 60%; background-repeat: none;}
+#pt2{display: inline-block; background-color: #141414; height: 100%;}
